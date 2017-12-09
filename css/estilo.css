@@ -1,0 +1,39 @@
+  .botao{
+  	background-color: #4169E1;
+  	height: 50px;
+  	font-size: 20px;
+  	color: white;
+  	border-style: solid;
+  	border-color: black;
+
+  }
+  .botao:hover{
+  	color: red;
+  }
+
+  .cadastro_cliente {
+   
+   position:absolute;
+
+ 
+  }
+
+   .cadastro_funcionario {
+   
+   position:absolute;
+
+  }
+
+  	.cadastro_estoque{
+  		position:absolute;
+
+  	}
+
+  	.cadastro_vale{
+  		position:absolute;
+
+  	}
+
+  	.cadastro_cartao{
+  		position: absolute;
+  	}
